@@ -1,0 +1,597 @@
+@media (max-width: 1199.5px) {
+
+    /* customer css */
+    .card {
+        padding: 2.5rem 1.875rem !important;
+    }
+
+    /* header */
+    .header-wrapper .nav-item .nav-link {
+        font-size: 1rem;
+    }
+
+    .banner_wrapper .animate-img .aimg1 {
+
+        left: -3.125rem;
+    }
+
+    .banner_wrapper .wrapper .card {
+        padding: 0 0 0 0;
+    }
+
+    /* top banner */
+
+    /* about */
+    .about .a .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: -0.492rem -0.7rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.75rem 6.125rem 0.1rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0 !important;
+        box-sizing: border-box !important;
+        border-right: 2px solid black !important;
+        border-bottom: 2px solid black !important;
+    }
+
+    .about .b .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: .5084rem -0.7rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.75rem 7.125rem 0.1rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0;
+        box-sizing: border-box !important;
+        border-left: 2px solid black !important;
+        border-bottom: 2px solid black !important;
+    }
+
+    .about .c .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: -0.492rem 1.1419rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.75rem 6.125rem 0.1rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0 !important;
+        box-sizing: border-box !important;
+        border-right: 2px solid black !important;
+        border-top: 1px solid black !important;
+    }
+
+    .about .d .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: .5084rem 1.1419rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.55rem 7.125rem 0.1rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0;
+        box-sizing: border-box !important;
+        border-left: 2px solid black !important;
+        border-top: 1px solid black !important;
+    }
+
+    .about .a .card h4 {
+        margin-left: -5rem;
+    }
+
+    .about .a .card p {
+        margin-left: -5rem;
+    }
+
+    .about .b .card h4 {
+        margin-left: -5rem;
+    }
+
+    .about .b .card p {
+        margin-left: -5rem;
+    }
+
+    .about .c .card h4 {
+        margin-left: -5rem;
+    }
+
+    .about .c .card p {
+        margin-left: -5rem;
+    }
+
+    .about .d .card h4 {
+        margin-left: -5rem;
+    }
+
+    .about .d .card p {
+        margin-left: -5rem;
+    }
+
+    /* Testimonial */
+    .Testimonial .col-md-8 .card {
+        border-radius: .625rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: -0.492rem 0.142rem 0.5rem rgba(0, 0, 0, 0.08) !important;
+        padding: 2.75rem 6.125rem 4.889rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0 !important;
+    }
+
+    /* blog */
+    .card1 {
+        margin: 0 0 0 0 !important;
+        width: 19rem !important;
+    }
+
+    .card1 h5 {
+        font-size: 1.2rem !important;
+    }
+
+    .card1 .card1-text {
+        font-size: 0.9rem !important;
+
+    }
+
+    /* services */
+}
+
+@media (max-width: 991px) {
+
+    /* customer css */
+    .navbar-toggler{
+        margin-right: 50px!important;
+    }
+    .wrapper {
+        padding: 3.125rem 0;
+    }
+
+    .main-btn {
+        font-size: .875rem;
+    }
+
+    h1 {
+        font-size: 2.8125rem;
+        margin-bottom: .625rem;
+    }
+
+    h2 {
+        font-size: 1.875rem;
+    }
+
+    h3 {
+        font-size: 1.5625rem;
+    }
+
+    h4 {
+        font-size: 1.25rem;
+    }
+
+    h5 {
+        font-size: 1.125rem;
+    }
+
+    p {
+        font-size: .875rem;
+        line-height: 0.35rem;
+    }
+
+    .card {
+        padding: 1.875rem 1rem 1rem 1rem !important;
+    }
+
+    .card .text {
+        padding: 0 2rem 0 0 !important;
+        text-align: center;
+    }
+
+    /* 2. Navbar */
+    .header-scrolled {
+        height: auto;
+    }
+
+    .header-wrapper .menu-navbar-nav {
+        text-align: center;
+
+    }
+
+    .header-wrapper .nav-item .nav-link {
+        margin-top: 0.9375rem;
+    }
+
+    /* top banner */
+    .banner_wrapper p {
+
+        max-width: 100%;
+    }
+
+    /* about */
+    .about .a .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: -0.492rem -0.7rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.75rem 5.125rem 0.3rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0 !important;
+        box-sizing: border-box !important;
+        border-right: 1px solid black !important;
+        border-bottom: 1px solid black !important;
+    }
+
+    .about .b .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: .5084rem -0.7rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.75rem 5.125rem 0.3rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0;
+        box-sizing: border-box !important;
+        border-left: 1px solid black !important;
+        border-bottom: 1px solid black !important;
+        margin-left: 5px !important;
+    }
+
+    .about .c .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: -0.492rem 1.1419rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.75rem 5.125rem 0.3rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0 !important;
+        box-sizing: border-box !important;
+        border-right: 1px solid black !important;
+        border-top: 1px solid black !important;
+        width: 2rem !important;
+    }
+
+    .about .d .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: .5084rem 1.1419rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.55rem 5.125rem 0.3rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0;
+        box-sizing: border-box !important;
+        border-left: 1px solid black !important;
+        border-top: 1px solid black !important;
+        margin-left: 5px !important;
+    }
+
+    .about .a .card h4 {
+        margin-left: -3.9rem !important;
+        padding-right: 5px !important;
+    }
+
+    .about .a .card p {
+        margin-left: -3.9rem !important;
+    }
+
+    .about .b .card h4 {
+        margin-left: -3.9rem !important;
+    }
+
+    .about .b .card p {
+        margin-left: -3.9rem !important;
+    }
+
+    .about .c .card h4 {
+        margin-left: -3.9rem !important;
+    }
+
+    .about .c .card p {
+        margin-left: -4.5rem !important;
+    }
+
+    .about .d .card h4 {
+        margin-left: -3.9rem !important;
+    }
+
+    .about .d .card p {
+        margin-left: -3.9rem !important;
+    }
+
+    .about_wrapper {
+        margin-top: -90px !important;
+    }
+
+    /* testimonial */
+    .Testimonial .col-md-8 .card {
+        border-radius: .625rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: -0.492rem 0.142rem 0.5rem rgba(0, 0, 0, 0.08) !important;
+        padding: 0rem 6.125rem 0rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0 !important;
+    }
+
+    .Testimonial h3 {
+        margin-top: 2px !important;
+        margin-left: -25px !important;
+    }
+
+    /* blog */
+    .card1 {
+        margin: 0 0 0 0 !important;
+        width: 14.5rem !important;
+    }
+
+    .card1 h5 {
+        font-size: 1.2rem !important;
+    }
+
+    .card1 .card1-text {
+        font-size: 0.9rem !important;
+
+    }
+
+    /* footer */
+
+    .footer .a {
+        margin-right: 2px !important;
+    }
+
+    .col-md-3 {
+        flex: 0 0 auto;
+        width: 33%;
+    }
+}
+
+@media (max-width: 767px) {
+
+    /* customer css */
+    .main-btn {
+        font-size: .875rem;
+    }
+
+    h1 {
+        font-size: 2.25rem;
+        margin-bottom: 2.5rem;
+    }
+
+    h5 {
+        font-size: 1.25rem;
+    }
+    
+    .navbar-toggler{
+        margin-right: 130px!important;
+    }
+    /* about */
+    .about .a .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: -0.492rem -0.7rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.75rem 5.125rem 0.3rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0 !important;
+        box-sizing: border-box !important;
+        border-right: 1px solid black !important;
+        border-bottom: 2px solid black !important;
+    }
+
+    .about .b .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: .5084rem -0.7rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.75rem 5.125rem 0.3rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0;
+        box-sizing: border-box !important;
+        border-left: 1px solid black !important;
+        border-bottom: 1px solid black !important;
+        margin-left: 5px !important;
+    }
+
+    .about .c .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: -0.492rem 1.1419rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.75rem 5.125rem 0.3rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0 !important;
+        box-sizing: border-box !important;
+        border-right: 1px solid black !important;
+        border-top: 1px solid black !important;
+        width: 30.5rem !important;
+    }
+
+    .about .d .card {
+        border-radius: .3rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: .5084rem 1.1419rem 0.5rem rgb(0 0 0 / 8%) !important;
+        padding: 3.55rem 5.125rem 0.3rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0;
+        box-sizing: border-box !important;
+        border-left: 1px solid black !important;
+        border-top: 1px solid black !important;
+        margin-left: 5px !important;
+        margin-bottom: 70px !important;
+    }
+
+    .about_wrapper .top-left-sec {
+        margin-left: 38px !important;
+    }
+
+    .about_wrapper .animate1-img .aimg1 {
+        left: 0.3rem !important;
+    }
+
+    .about_wrapper .animate-img .img-fluid {
+        max-width: 80% !important;
+    }
+
+    .about_wrapper .animate1-img .img-fluid {
+        max-width: 65% !important;
+    }
+
+    .about_wrapper {
+        margin-top: -90px !important;
+    }
+
+    .about_wrapper .c {
+        margin-left: 40px !important;
+    }
+
+    /* services */
+    .service .card {
+        background-color: var(--primary-color);
+    }
+
+    .service h5 {
+
+        font-size: 1.2rem !important;
+        margin-left: 6px !important;
+    }
+
+    .e {
+        margin-left: 2px !important;
+    }
+
+    /* Gallery */
+    .Gallery .card-5 .img-2 {
+        width: 40rem !important;
+        height: 10rem !important;
+        margin-top: 35px !important;
+        border-radius: 1rem !important;
+    }
+
+    /* testimonial */
+    .Testimonial .col-md-8 .card {
+        border-radius: .625rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: 0.292rem 3.142rem 13.5rem rgba(0, 0, 0, 0.08) !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0 !important;
+        margin-top: 15px !important;
+    }
+
+    .Testimonial .col-md-4 .card {
+        border-radius: .625rem !important;
+        background-color: var(--bg-white) !important;
+        box-shadow: 0.292rem 0.142rem 0.5rem rgba(0, 0, 0, 0.08) !important;
+        padding: 3.75rem 3.125rem -0.2875rem !important;
+        -webkit-transition: all .4s !important;
+        transition: all .4s !important;
+        border: 0 !important;
+    }
+
+    .Testimonial .card:hover {
+        -webkit-transform: translateY(-0.625rem);
+        transform: translateY(-0.625rem);
+    }
+
+    /* blog */
+    .card1 {
+        margin: 0 0 0 0 !important;
+        width: 20.5rem !important;
+        margin-top: 15px !important;
+        margin-left: 80px!important;
+    }
+
+    .card1 h5 {
+        font-size: 1.2rem !important;
+    }
+
+    .card1 .card1-text {
+        font-size: 0.9rem !important;
+
+    }
+
+
+    /* testimonial */
+    .testimonial_wrapper {
+        background-image: url(../images/appointmnet-bg.jpg) !important;
+        background-repeat: no-repeat !important;
+        background: center center !important;
+        background-size: 88rem !important;
+        margin: 5rem 0rem 0rem 0rem !important;
+        /* padding: 100px 20px 25px 0px !important; */
+
+    }
+
+    .testimonial_wrapper h3 {
+        font-size: 1.8rem !important;
+        margin-left: -10rem !important
+    }
+
+    .testimonial_wrapper a {
+        margin-left: -10rem !important;
+    }
+
+    /* footer */
+
+    .footer .a {
+        margin-right: 2px !important;
+    }
+
+    .col-md-3 {
+        flex: 0 0 auto;
+        width: 75% !important;
+    }
+}
+
+@media (max-width: 360px) {
+
+    /* blog */
+    .card1 {
+        margin: 0 0 0 0 !important;
+        width: 10.5rem !important;
+        margin-top: 15px !important;
+        margin-left: 15px !important;
+    }
+
+    .card1 h5 {
+        font-size: 1.2rem !important;
+    }
+
+    .card1 .card1-text {
+        font-size: 0.9rem !important;
+
+    }
+
+    .footer .a {
+        margin-right: 2px !important;
+    }
+
+    .col-md-3 {
+        flex: 0 0 auto;
+        width: 77% !important;
+    }
+
+    .e {
+        margin-left: 130px !important;
+    }
+
+    .testimonial_wrapper {
+        background-image: url(../images/appointmnet-bg.jpg) !important;
+        background-repeat: no-repeat !important;
+        background: center center !important;
+        background-size: 88rem !important;
+        margin: 5rem 0rem 0rem 0rem !important;
+        /* padding: 100px 20px 25px 0px !important; */
+
+    }
+
+    .testimonial_wrapper h3 {
+        font-size: 2.8rem !important;
+        margin-left: -17rem !important;
+    }
+
+    .testimonial_wrapper a {
+        margin-left: -17rem !important;
+    }
+
+    /* banner */
+
+    /* about */
+
+}
